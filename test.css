@@ -1,0 +1,25 @@
+body{
+    background-image:url("https://i.imgur.com/pMvoy11.jpg");
+}
+
+#notebook-container{
+  background: rgba(255, 255, 255, 0.6);
+}
+.notebook_app > #header{
+  background: rgba(255, 255, 255, 0.6);
+}
+.btn-default{
+  background: rgba(255, 255, 255, 0);
+  border-color: rgba(255, 255, 255, 0);
+}
+.form-control{
+  background: rgba(255, 255, 255, 0);
+  border-color: rgba(255, 255, 255, 0);
+  box-shadow:none;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form .navbar-collapse .collapse{
+  background: rgba(255, 255, 255, 0) !important;
+  border-color: rgba(255, 255, 255, 0) !important;
+  box-shadow:none !important;
+
+}
