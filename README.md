@@ -1,4 +1,4 @@
-#Shit tier ML application for bitcoin price prediction
+# Shit tier ML application for bitcoin price prediction
 
 ## Introduction
 Crappy model for bitcoin price prediction using sklearn module's regressor and decision trees. The model is trained over past 4 years data fetched using the coindesk API. The trained model objects are stored in /trained_objects as pickle formatted objects. 
